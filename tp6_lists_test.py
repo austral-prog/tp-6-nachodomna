@@ -44,7 +44,3 @@ def list_of_lists(list_of_lists_to_modify):
         paso_1 = list_of_lists_to_modify[2][-2:]
 
     return [paso_3, paso_2, paso_1]
-
-   
-   
- 
